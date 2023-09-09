@@ -25,4 +25,4 @@ Postgres: As the database of choice, Postgres provides a reliable and efficient 
 
 Postman: Postman was employed for testing the backend application, offering a user-friendly and powerful tool for API testing and documentation.
 
-Eclipse: Eclipse IDE was used for development, providing a robust environment for writing, testing, and debugging code.
+Eclipse: Eclipse IDE was used for development, providing a robust environment for writing, testing, and debugging code. 
